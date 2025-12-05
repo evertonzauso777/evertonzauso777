@@ -89,7 +89,7 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 
 ---
 
-# 📈 Estatísticas do GitHub (modo Dark)
+[# 📈 Estatísticas do GitHub (modo Dark)
 
 <div align="center">
 
@@ -102,17 +102,17 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 ![Streak](https://streak-stats.demolab.com/?user=evertonzauso777&theme=tokyonight&hide_border=true)
 
 </div>
-
+](url)
 ---
 
-# 📊 Gráficos Interativos
+[# 📊 Gráficos Interativos
 
 <div align="center">
 
 ### 🌐 Activity Graph
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=evertonzauso777&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div>](url)
 
 ---
 
@@ -126,6 +126,5 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 <div align="center">
 
 ### ✨ Obrigado por visitar meu perfil!  
-Se quiser, posso gerar uma versão **animada**, **minimalista**, **corporativa**, ou com **GIFs**.
 
 </div>
