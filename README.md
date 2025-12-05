@@ -70,7 +70,7 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 - APIs REST, Windows Services, Worker Service  
 - RabbitMQ, Kafka  
 - Entity Framework, Dapper, NHibernate, CQRS  
-- PHP, Node.js, Python  
+- PHP, Node.js, Python, GO  
 
 ### 🗄️ **Banco de Dados**
 - SQL Server, MySQL, Oracle, PostgreSQL  
@@ -91,7 +91,7 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 ### ⚙️ **DevOps**
 - CI/CD, Docker, Kubernetes, Helm  
 - Terraform  
-- Azure Pipelines, Jenkins  
+- Azure Pipelines, Jenkins, Argo CD  
 
 ### 🧪 **Testes**
 - xUnit, Cypress, JMeter, K6  
