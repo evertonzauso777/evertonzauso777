@@ -109,9 +109,10 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 
 # 🤝 Contato
 
-- **Site:** **https://zauso-dev.com.br**  
+- **Site:** **https://zauso-dev.com.br**
+- **E-mail:** **contato@zauso-dev.com.br** 
 - **Medium:** **https://medium.com/@evertonzauso**
-- **E-mail:** **contato@zauso-dev.com.br**  
+  
 
 ---
 
