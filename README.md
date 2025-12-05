@@ -2,7 +2,7 @@
 <div align="center">
   
 # 🌙✨ Bem-vindo ao meu GitHub — *Everton Souza*  
-### Desenvolvedor Back-end | Arquitetura | DevOps | Cloud | +15 anos de experiência  
+### Full Stack Developer | Desenvolvedor Back-end | Arquitetura | DevOps | Cloud | +15 anos de experiência  
 
 </div>
 
@@ -110,7 +110,8 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 # 🤝 Contato
 
 - **Site:** *https://zauso-dev.com.br*  
-- **Medium:** *https://medium.com/@evertonzauso*  
+- **Medium:** *https://medium.com/@evertonzauso*
+- **E-mail:** *contato@zauso-dev.com.br*  
 
 ---
 
