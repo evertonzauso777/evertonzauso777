@@ -95,11 +95,11 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 
 ### 🌌 *Loading awesome stats...*
 
-![Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=evertonzauso777&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonzauso777&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=seu-usuario&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=evertonzauso777&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -110,7 +110,7 @@ Sou apaixonado por **boas práticas**, **observabilidade**, **alta performance**
 <div align="center">
 
 ### 🌐 Activity Graph
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=evertonzauso777&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
