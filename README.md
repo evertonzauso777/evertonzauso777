@@ -4,7 +4,7 @@
 # 🌙✨ Bem-vindo ao meu GitHub — *Everton Souza*  
 ### Desenvolvedor Back-end | Arquitetura | DevOps | Cloud | +15 anos de experiência  
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=evertonzauso777&style=for-the-badge&color=blueviolet)
 
 </div>
 
