@@ -4,10 +4,12 @@
 # 🌙✨ Bem-vindo ao meu GitHub — *Everton Souza*  
 ### Full Stack | Desenvolvedor Back-end | Arquitetura | DevOps | Cloud | +15 anos de experiência  
 
+Desenvolvedor com **15+ anos de experiência** em soluções back-end, integrações, arquitetura distribuída, bancos de dados e práticas modernas de DevOps e Cloud.
+
 </div>
 
 
-Desenvolvedor com **15+ anos de experiência** em soluções back-end, integrações, arquitetura distribuída, bancos de dados e práticas modernas de DevOps e Cloud.
+
 
 ---
 
