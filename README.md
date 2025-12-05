@@ -2,7 +2,7 @@
 <div align="center">
   
 # 🌙✨ Bem-vindo ao meu GitHub — *Everton Souza*  
-### Full Stack Developer | Desenvolvedor Back-end | Arquitetura | DevOps | Cloud | +15 anos de experiência  
+### Full Stack | Desenvolvedor Back-end | Arquitetura | DevOps | Cloud | +15 anos de experiência  
 
 </div>
 
