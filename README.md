@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <div align="center">
   
-# 🌙✨ Bem-vindo ao meu GitHub — *Everton Souza*  
+# Bem-vindo ao meu GitHub — *Everton Souza*  
 ### Full Stack | Desenvolvedor Back-end | Arquitetura | DevOps | Cloud | +15 anos de experiência  
 
 </div>
@@ -11,7 +11,7 @@
 <!-- Badges de tecnologias principais -->
 <div align="center">
 
-### 🚀 **Tech Stack Principal**
+### **Tech Stack Principal**
 
 <!-- Back-end -->
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -67,14 +67,14 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Profissional com **mais de 15 anos de experiência** em análise e desenvolvimento de software.  
 Atuei em múltiplos segmentos com tecnologias diversas, desde stacks clássicas até arquiteturas modernas, distribuídas e escaláveis.
 
 ---
 
-# 🤝 Contato
+# Contato
 
 - **Site:** **https://zauso-dev.com.br**
 - **E-mail:** **contato@zauso-dev.com.br** 
@@ -84,6 +84,6 @@ Atuei em múltiplos segmentos com tecnologias diversas, desde stacks clássicas 
 
 <div align="center">
 
-### ✨ Obrigado por visitar meu perfil!  
+### Obrigado por visitar meu perfil!  
 
 </div>
